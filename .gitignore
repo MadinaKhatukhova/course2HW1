@@ -27,6 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/src/
-/.idea/
+*.src
 *.idea
+*.course2HW1.iml
+
+
