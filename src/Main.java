@@ -7,8 +7,6 @@ public class Main {
 
         System.out.println(maksim + "\n" + anya + "\n" + katya + "\n" + artem);
 
-
-
     Car lada = new Car("Lada", "Granta", 2015, "Россия", "жёлтый",
             1.7f, "МКПП", "Седан", "а111АА111", 5, true);
     Car audi = new Car("Audi", "A8 50 L TDI quattro", 2020, "Германия", "черный",

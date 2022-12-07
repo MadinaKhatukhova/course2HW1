@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0701214e-9efd-4b28-a0b2-25e738a516e7" name="Changes" comment="Задачи 1, 2, 3" />
+    <list default="true" id="0701214e-9efd-4b28-a0b2-25e738a516e7" name="Changes" comment="Задачи 1, 2, 3, 4">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670418635268</updated>
-      <workItem from="1670418641133" duration="4752000" />
+      <workItem from="1670418641133" duration="5475000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1670419508066</created>
@@ -71,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670422791048</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Задачи 1, 2, 3, 4">
+      <created>1670431535243</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670431535243</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +101,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="Задачи 1, 2" />
     <MESSAGE value="Задачи 1, 2, 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачи 1, 2, 3" />
+    <MESSAGE value="Задачи 1, 2, 3, 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачи 1, 2, 3, 4" />
   </component>
 </project>
