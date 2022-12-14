@@ -18,6 +18,13 @@ public class Main {
 
         System.out.println(lada + "\n" + audi + "\n" + bmw + "\n" + kia);
 
-}
 
-}
+    Flower rosa = new Flower("Роза обыкновенная", "","Голландия", 35.59f, 4);
+    Flower chrysanthemum = new Flower("Хризантема", "","", 15f, 5);
+    Flower peony = new Flower("Пион", "","Англия", 69.9f, 1);
+    Flower gypsophila = new Flower("Гипсофила", "","Турция", 19.5f, 10);
+
+        System.out.println(rosa + "\n" + chrysanthemum + "\n" + peony + "\n" + gypsophila);
+        System.out.println();
+
+}}

@@ -55,7 +55,6 @@ public class Car {
         this.numberOfSeats = (numberOfSeats > 0 ? numberOfSeats : 2);
         this.summerTires = summerTires;
     }
-
     @Override
     public String toString() {
         return String.format("%s %s, страна сборки: %s, цвет и тип кузова: %s %s, объем двигателя: %.1f литра, " +
@@ -138,4 +137,5 @@ public class Car {
     public void setSummerTires(boolean summerTires) {
         this.summerTires = summerTires;
     }
+
 }
