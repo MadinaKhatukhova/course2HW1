@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0701214e-9efd-4b28-a0b2-25e738a516e7" name="Changes" comment="Задачи 1,2,3 OOP encapsulation">
+    <list default="true" id="0701214e-9efd-4b28-a0b2-25e738a516e7" name="Changes" comment="Задачи 1,2 Inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="course2HW1" />
+        <entry key="$PROJECT_DIR$" value="OOP_encapsulation2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670418635268</updated>
-      <workItem from="1670418641133" duration="13863000" />
+      <workItem from="1670418641133" duration="15713000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1670419508066</created>
@@ -130,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671030707524</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Задачи 1,2 Inheritance">
+      <created>1671472232307</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671472232307</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Задачи 1,2 Inheritance">
+      <created>1671472472266</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671472472266</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +165,7 @@
     <MESSAGE value="Задачи 1, 2, 3" />
     <MESSAGE value="Задачи 1, 2, 3, 4" />
     <MESSAGE value="Задачи 1,2,3 OOP encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачи 1,2,3 OOP encapsulation" />
+    <MESSAGE value="Задачи 1,2 Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задачи 1,2 Inheritance" />
   </component>
 </project>
